@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "color": "#ff7700",
+            "title": "Active",
+            "total": 723
+        },
+        {
+            "color": "#3275a8",
+            "title": "Expires within 91-180 days",
+            "total": 83
+        },
+        {
+            "color": "#3275a8",
+            "title": "Expires within 31-90 days",
+            "total": 76
+        },
+        {
+            "color": "#3275a8",
+            "title": "Expires within 30 days",
+            "total": 36
+        },
+        {
+            "color": "#3275a8",
+            "title": "Expires less than 30 days",
+            "total": 11
+        },
+        {
+            "color": "#3275a8",
+            "title": "Terminated",
+            "total": 3
+        }
+    ]
+}
